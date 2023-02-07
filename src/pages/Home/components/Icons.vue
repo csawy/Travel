@@ -55,14 +55,6 @@ export default {
           id: '0008',
           imgUrl: 'https://s.qunarzz.com/homenode/images/touchheader/train.png',
           desc: '火车票订购'
-        }, {
-          id: '0009',
-          imgUrl: 'https://s.qunarzz.com/homenode/images/touchheader/package.png',
-          desc: '热门景点'
-        }, {
-          id: '0010',
-          imgUrl: 'https://s.qunarzz.com/homenode/images/touchheader/piao.png',
-          desc: '周边游'
         }
       ]
     }
